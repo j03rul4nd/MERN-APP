@@ -1,17 +1,3 @@
----
-title: MERN APPLICATION
-description: Example Vite app that is configured with React
-tags:
-  - Vite
-  - React
-  - Apollo
-  - GraphQL
-  - Mongoose
-  - Express
-  - Cors
-  - NodeJS
----
-
 ## ✨ Features
 
 - Mongoose
@@ -70,4 +56,4 @@ The `app mern` is ubicated for default in http://localhost:5173/
 
 ## 📝 Notes
 
->In this repository, you'll find a MERN application for managing projects and tasks. With this web >application, users can efficiently and organizedly create, edit, and delete projects and tasks. The app >uses MongoDB as its database, Express and Node.js in the backend, and React in the frontend. Additionally, >GraphQL has been integrated to enhance performance and efficiency in communication between client and >server. Vite has also been used as the build tool for the application. Feel free to clone this repository >and adapt it to your needs. We hope it proves useful to you!
+>In this repository, you'll find a MERN application for managing projects and tasks. With this web application, users can efficiently and organizedly create, edit, and delete projects and tasks. The app uses MongoDB as its database, Express and Node.js in the backend, and React in the frontend. Additionally, GraphQL has been integrated to enhance performance and efficiency in communication between client and server. Vite has also been used as the build tool for the application. Feel free to clone this repository and adapt it to your needs. We hope it proves useful to you!
