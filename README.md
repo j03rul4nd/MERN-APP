@@ -8,7 +8,7 @@
 - Apollo
 - GraphQL
 - Cors
-
+![](./docs/mobile.png)
 ## Getting Started :tada:
 Debera de cambiar la variable **MONGODB_URI** por la suya propia.
 Este proyecto utiliza como base de datos mongodb atlas.
