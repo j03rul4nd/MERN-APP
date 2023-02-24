@@ -15,6 +15,22 @@ This example utilises vite for static site generation
 
 - Vite
 - React
+- Apollo
+- GraphQL
+- Mongoose
+- Express
+
+## Getting Started
+Debera de cambiar la variable MONGODB_URI por la suya propia.
+Este proyecto utiliza como base de datos mongodb atlas.
+
+- `MONGODB_URI`, the mongodb database uri
+
+This const is ubicated in `servidor/config.js`
+
+```
+export const mongodb_uri = 'mongodb+srv://<USER>:<Password>@<PROJECT_NAME_MONGO_DB_ATLAS>.mongodb.net/test'
+```
 
 ## 💁‍♀️ How to use
 
