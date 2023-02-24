@@ -34,15 +34,14 @@ This const is ubicated in `servidor/config.js`
 ```
 export const mongodb_uri = 'mongodb+srv://<USER>:<Password>@<PROJECT_NAME_MONGO_DB_ATLAS>.mongodb.net/test'
 ```
-Por defecto el GraphQL se ubicara en esta url:
-
-- `URI`: http://localhost:4000/graphql
 
 ## Instalation
-
-Run Backend
+Primero clonamos el repositorio git:
 ```
 git clone https://github.com/j03rul4nd/MERN-APP.git
+```
+Run Backend
+```
 npm run dev
 ```
 response:
@@ -50,7 +49,11 @@ response:
 🌐 Server ready at http://localhost:4000/graphql
 🛰️  Mongo DB Connected test
 ```
-Run Fronted
+Por defecto el GraphQL se ubicara en esta url:
+
+- `URI`: http://localhost:4000/graphql
+
+### Run Fronted
 ```
 cd vite-project
 npm run dev
@@ -63,6 +66,7 @@ response:
   ➜  Network: use --host to expose
   ➜  press h to show help
 ```
+The `app mern` is ubicated for default in http://localhost:5173/
 
 ## 💁‍♀️ How to use
 
